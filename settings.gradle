@@ -1,5 +1,2 @@
-include ':Server'
-include ':Client'
 include ':Pong'
-include ':jbox2d'
 
